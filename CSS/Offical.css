@@ -1,0 +1,168 @@
+.header {
+    background-color: #fdf0d5;
+    text-align: center;
+     padding: 20px;
+     border: black;
+     border: solid;
+     border-width: 1px;
+    
+}
+h1{
+    color:  #C1121F;
+    font-family: 'Playfair Display', serif;
+}
+#course{
+    color: #C1121F;
+}
+.navLinks{
+    overflow: hidden;
+    background-color: #270204;
+
+}
+.navLinks a{
+    float: left;
+    display: block;
+    color: #D4E2ED;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+.navLinks a:hover{
+    background-color:#780000;
+    
+}
+.column{
+    float: left;
+    width: 84.5%;
+    padding: 9.5pc;
+    background-color: #fdf0d5;
+   
+}
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+    background-color: #fdf0d5;
+}
+
+.footer{
+    background-color:#003049 ;
+    text-align: left;
+    padding: 30px;
+    border: black;
+    border: solid;
+}
+#facts{
+    font-size: 170%;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 500;
+    color: #780000;
+    text-align: left;
+}
+#Baby{
+     top: 340px; left:9px; float: left;
+}
+#Graduate{
+    float: right;top: 450px; right:100px;
+
+}
+form{
+    float: right;
+    padding:4.5%;
+    background-color:#669bbc;
+    font-style: italic;
+    border-right: solid;
+    font-weight: 900px;
+    position: absolute; bottom: -950px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#sec1{
+    background-color: white;
+    border: blue;
+    border: solid;
+    border-width: 5px;
+    text-align: center;
+}
+#RandomH{
+    color: #FFD6D6;
+    font-size: 300%;
+}
+#York{
+    position: absolute; width: 620px; height: 620px; top: 650px; right: 30px;
+    border: 10px;
+    border: black;
+}
+#feedback{
+    text-align: right;
+}
+#Evan{
+    position: absolute; width: 400px; height: 400px; left:50px; bottom: -350px;
+    
+    
+}
+#RandomSection{
+    background-color: #C1121F;
+   position: absolute; left: 1px; right: 1px;
+    
+}
+#list{
+    position: absolute;float: left;top: 650px; left:  40px;
+
+}#YouTubeSection{
+    background-color: #003049;
+   position: absolute; left: 1px; right: 1px;
+}
+
+#YouTube{
+    color:  #D4E2ED;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size:300%;
+}
+#Channel{
+    position: absolute;float: left;top: 340px; left:9px;
+
+}
+#Description{
+    font-size: 200%;
+}
+#sec5{
+    position: absolute;float: left;top: 660px; left:9px;
+    font-family: 'Overpass', sans-serif;
+    color: #11222C;
+}
+#Follow{
+    text-align: left;
+}
+#Sellout{
+    position: absolute; float: left; left: 9px;
+}
+#Social{
+    background-color: #003049;
+    position: absolute; left: 1px; right: 1px;
+
+}
+#instagram{
+    float: right;
+}
+#sec6{
+    position: absolute;float: left;top: 800px; left:9px;
+    font-family: 'Overpass', sans-serif;
+    color: #11222C;
+}
+#little{
+    font-family: 'Overpass', sans-serif;
+    color: #11222C;
+    font-size: 180%;
+
+}
+#school{
+    font-family: 'Overpass', sans-serif;
+    color: #11222C;
+    font-size: 160%;
+}
